@@ -1,0 +1,94 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+    color: #fff;
+}
+
+main {
+    background-image: url(img/teste.png);
+    background-position: 100% 5%;
+    background-size: 200px;
+
+}
+
+.title h4 {
+    text-align: right;
+    font-size: 33px;
+}
+
+.title span {
+    color: #FC96BB;
+}
+
+
+
+.alinhamento {
+    place-content: center;
+}
+
+.title-img img {
+    width: 80px;
+    height: auto;
+}
+
+.title-img {
+    padding-bottom: 1rem;
+    margin-left: 10rem;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.img-planet {
+    position: absolute;
+    left: 60%;
+    background-color: #291C52;
+    clip-path: circle();
+    padding: 1rem;
+}
+
+
+.title-text h4 {
+    font-size: 60px;
+}
+
+.paragraphy p {
+    font-size: 23px;
+}
+
+.back {
+    background-color: #fff !important;
+    color: #8C72FF !important;
+}
+
+.img-bolinha img {
+    width: 480px;
+    height: auto;
+}
+
+.title-text-girl h4 {
+    font-size: 40px;
+}
+
+.padding-left {
+    padding-left: 10rem !important;
+}
+
+.teste p {
+    font-size: 20px;
+    max-width: 500px !important;
+}
+
+.section-title > h2{
+    color: #175367;
+}
+
+.process-step > h4{
+    color: #175367;
+}
